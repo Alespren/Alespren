@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alespren
 - 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning Javascript and Discord.js
+- 🌱 I’m currently learning Javascript and HTML/CSS
 - 💻 My current project is Alespren/Warden (private)
 - 📫 Reach me on Discord at @Lunamor#7360
 
