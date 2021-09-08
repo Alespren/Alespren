@@ -1,10 +1,11 @@
+#### Hello!
 - 👋 Hi, I’m @Alespren
 - 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning Javascript and HTML/CSS
+- 🌱 I’m currently learning Javascript, HTML/CSS, and Java
 - 💻 My current project is Alespren/Warden (private)
-- 📫 Reach me on Discord at @Lunamor#7360
 
-<!---
-Alespren/Alespren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Contact
+📬 Contact me on Discord at @Alespren#7360
+
+---
+[![Alespren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alespren)](https://github.com/anuraghazra/github-readme-stats)
